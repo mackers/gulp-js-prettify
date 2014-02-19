@@ -8,7 +8,7 @@
 
 var Buffer = require('buffer').Buffer;
 var es = require('event-stream');
-var prettify = require('js-beautify').html;
+var prettify = require('js-beautify');
 var gutil = require('gulp-util');
 
 module.exports = function (opts) {
