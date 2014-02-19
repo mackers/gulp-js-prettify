@@ -1,23 +1,23 @@
 {
-  "name": "gulp-prettify",
-  "description": "Prettify, format, beautify HTML.",
-  "version": "0.1.2",
-  "homepage": "https://github.com/jonschlinkert/gulp-prettify",
+  "name": "gulp-js-prettify",
+  "description": "Prettify, format, beautify JavaScript.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mackers/gulp-js-prettify",
   "author": {
-    "name": "Jon Schlinkert",
-    "url": "https://github.com/jonschlinkert"
+    "name": "David McNamara",
+    "url": "https://github.com/mackers"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonschlinkert/gulp-prettify.git"
+    "url": "https://github.com/mackers/gulp-js-prettify.git"
   },
   "bugs": {
-    "url": "https://github.com/jonschlinkert/gulp-prettify/issues"
+    "url": "https://github.com/mackers/gulp-js-prettify/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jonschlinkert/gulp-prettify/blob/master/LICENSE-MIT"
+      "url": "https://github.com/mackers/gulp-js-prettify/blob/master/LICENSE-MIT"
     }
   ],
   "main": "index.js",
@@ -40,11 +40,7 @@
     "gulp",
     "js-beautify",
     "gulpplugin",
-    "html beautify",
-    "html format",
-    "html indent",
-    "html prettify",
-    "html",
+    "javascript",
     "prettify"
   ]
 }
